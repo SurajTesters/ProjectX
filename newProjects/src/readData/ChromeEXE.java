@@ -9,5 +9,6 @@ public class ChromeEXE
 		ChromeEXE ob = new ChromeEXE();
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.flipkart.com/");
+		//driver.get("Amazon.in");
 	}
 }
